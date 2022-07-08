@@ -1,2 +1,3 @@
-# fullcycle_gpg
-This is a sample of a GPG signed commit
+## Summary
+
+This repository is a showcase of a commit with GPG verification
